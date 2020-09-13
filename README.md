@@ -1,4 +1,6 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=TotomInc)](https://github.com/TotomInc)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TotomInc&theme=dracula" alt="GitHub trophies" />
+</p>
 
 ### Hello 👋
 
