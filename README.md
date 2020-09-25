@@ -12,5 +12,5 @@ I'm always willing to learn new technologies after many years in the development
 
 ## Find me on the web 🌎
 - <a href="https://www.totominc.io">totominc.io</a> 🏓
-- <a href="https://www.totominc.io">blog.totominc.io</a> 📗
+- <a href="https://blog.totominc.io">blog.totominc.io</a> 📗
 - <a href="https://www.linkedin.com/in/cazade-thomas/">LinkedIn</a> 💼
