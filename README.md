@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TotomInc&theme=dracula" alt="GitHub trophies" />
-</p>
-
 ### Hello 👋
 
 I'm a front-end enginner who is passionate about making open-source more accessible!
