@@ -1,7 +1,12 @@
 ### Hello 👋
 
-I'm a front-end enginner who is passionate about making open-source more accessible!
+- 🔭 Working daily on Vue 3 websites with high-interactivity for thousands of users.
+- 🌳 Side-projects on Next.js:
+  - Built in public a few SaaS (useform.co, fastsheet.co)
+  - Working on a B2B niche SaaS
+- ⚡ I enjoy working with the serverless infrastructure.
 
-Some technologies I enjoy working with are Vue & React including SSR (Next.js/Nuxt) & serverless stuff.
-
-I also use NodeJS, TypeScript, Mongo/SQL and a bit of Java for back-end related projects.
+![Vue.js](https://img.shields.io/badge/Vue.js-grey?style=for-the-badge&logo=vue.js)
+![Next.js](https://img.shields.io/badge/Next.js-grey?style=for-the-badge&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-grey?style=for-the-badge&logo=typescript)
+![Vercel](https://img.shields.io/badge/Vercel-grey?style=for-the-badge&logo=vercel)
