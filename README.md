@@ -2,7 +2,7 @@
 
 - 🔭 Working daily on Vue 3 websites with high-interactivity for thousands of users.
 - 🌳 Side-projects on Next.js:
-  - Built in public a few SaaS (useform.co, fastsheet.co)
+  - Built in public a few SaaS
   - Working on a B2B niche SaaS
 - ⚡ I enjoy working with the serverless infrastructure.
 
